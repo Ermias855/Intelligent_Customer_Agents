@@ -756,22 +756,6 @@ enterprise-customer-platform/
 
 ---
 
-graph TB
-    A[Client Applications] --> B[API Gateway]
-    B --> C[Authentication Layer]
-    C --> D[Core Business Logic]
-    D --> E[AI Agent Engine]
-    D --> F[Order Processing]
-    D --> G[Product Catalog]
-    E --> H[LLM Services]
-    E --> I[Vector Database]
-    F --> J[Payment Gateway]
-    G --> K[Inventory Management]
-    D --> L[Messaging Core]
-    L --> M[External Messaging APIs]
-    D --> N[Geospatial Services]
-    D --> O[Background Tasks]
-    O --> P[Task Queue]
     
 
 ## 🛠️ Prerequisites
@@ -791,7 +775,7 @@ graph TB
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/h9-tec/Intelligent_Customer_Agents.git
-   cd ai-customer-platform
+   cd Intelligent_Customer_Agents
    ```
 
 2. **Environment Setup**
@@ -919,15 +903,9 @@ We welcome contributions from the community! Please see our [Contributing Guide]
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
----
 
 **🌟 Star this repository if you find it helpful!**
+
 
 
 

